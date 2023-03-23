@@ -21,7 +21,7 @@ const Button = ({ data }) => {
 
 const Container = styled.div`
 margin-top: 30px;
-background-color: red;
+/* background-color: red; */
 width: 140px;
 height: 50px;
 border-radius: 40px;
