@@ -23,7 +23,7 @@ const Container = styled.div`
 margin-top: 30px;
 /* background-color: red; */
 width: 140px;
-height: 50px;
+/* height: 50px; */
 border-radius: 40px;
 display: flex;
 padding: 10px;
